@@ -1,6 +1,6 @@
 # NCCHInfo
 
-This is a C# port of the ncchinfo_gen.py script from https://github.com/archshift/Decrypt9/tree/master/scripts by archshift. It was created to avoid the need for a Phyton installation. A pre-compiled version can be found in the bin/Release folder:
+This is a C# port of the ncchinfo_gen.py script from https://github.com/archshift/Decrypt9/tree/master/scripts by archshift. It was created to avoid the need for a Python installation. A pre-compiled version can be found in the bin/Release folder:
 
 https://github.com/DeadlySystem/NCCHInfo/tree/master/NCCHInfo/bin/Release
 
