@@ -4,4 +4,5 @@
 obj/
 NCCHInfo/bin/Debug/
 *.vshost.exe*
+*.exe.config
 *.pdb
